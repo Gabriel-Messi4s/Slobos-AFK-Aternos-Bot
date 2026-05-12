@@ -8,7 +8,7 @@
   "server": {
     "ip": "messias.aternos.me",
     "port": 51069,
-    "version": "1.21.11",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Lucas é gay!",
+        "Haha, que vontade de dar o cuzinho!",
+        "Rebola lentinho vai..."
       ]
     },
     "chat-log": true,
