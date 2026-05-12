@@ -8,7 +8,7 @@
   "server": {
     "ip": "messias.aternos.me",
     "port": 51069,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
